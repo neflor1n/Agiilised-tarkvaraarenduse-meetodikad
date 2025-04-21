@@ -1,0 +1,62 @@
+[
+    {
+        "truck_id": "TRK-001",
+        "latitude": 59.437,
+        "longitude": 24.7536,
+        "timestamp": "2025-04-16T10:05:00Z"
+    },
+    {
+        "truck_id": "TRK-002",
+        "latitude": 91.000,
+        "longitude": 24.7536,
+        "timestamp": "2025-04-16T10:10:00Z"
+    },
+    {
+        "truck_id": "",
+        "latitude": 58.0,
+        "longitude": 24.0,
+        "timestamp": "invalid-time"
+    },
+    {
+        "truck_id": "TRK-003",
+        "latitude": 51.5074,
+        "longitude": -0.1278,
+        "timestamp": "2025-04-15T16:30:00Z"
+    },
+    {
+        "truck_id": "TRK-004",
+        "latitude": -91.0,
+        "longitude": 13.4050,
+        "timestamp": "2025-04-15T17:45:00Z"
+    },
+    {
+        "truck_id": "TRK-005",
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "timestamp": "2025-04-15T12:00:00Z"
+    },
+    {
+        "truck_id": "TRK-006",
+        "latitude": 60.1695,
+        "longitude": 24.9354,
+        "timestamp": "wrong-format"
+    },
+    {
+        "truck_id": null,
+        "latitude": 52.5200,
+        "longitude": 13.4050,
+        "timestamp": "2025-04-15T14:30:00Z"
+    },
+    {
+        "truck_id": "TRK-007",
+        "latitude": 35.6895,
+        "longitude": 139.6917,
+        "timestamp": "2025-04-16T05:00:00Z"
+    },
+    {
+        "truck_id": "TRK-008",
+        "latitude": 40.7128,
+        "longitude": -74.0060,
+        "timestamp": "2025-04-16T06:15:00Z"
+    }
+]
