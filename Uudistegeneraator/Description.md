@@ -28,3 +28,29 @@ See on lihtne Flask-rakendus, mis võimaldab genereerida uudiseid juhuslikult v�
 1. **Laadi sõltuvused (vajadusel):**
    ```bash
    pip install flask
+   ```
+
+2. **Projektistruktuur:**
+
+   ```
+   uudistegeneraator/
+   ├── app.py
+   ├── templates/
+   │   ├── index.html
+   │   └── edit.html
+   └── README.md
+   ```
+
+3. **Käivita rakendus:**
+   ```bash
+   python app.py
+   ```
+
+4. **Ava brauseris:**
+   [http://localhost:5000](http://localhost:5000)
+
+---
+
+## ✏️ Autor
+
+Projekt loodud õppimise eesmärgil. Arendatud XP (Extreme Programming) lähenemisviisi järgi – kiire testimine, lihtne disain ja pidev täiustamine.
