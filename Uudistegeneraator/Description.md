@@ -54,3 +54,5 @@ See on lihtne Flask-rakendus, mis võimaldab genereerida uudiseid juhuslikult v�
 ## ✏️ Autor
 
 Projekt loodud õppimise eesmärgil. Arendatud XP (Extreme Programming) lähenemisviisi järgi – kiire testimine, lihtne disain ja pidev täiustamine.
+
+Bogdan Sergachev & Gleb Sõtsjov TARpv23
